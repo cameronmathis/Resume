@@ -1,4 +1,4 @@
 # Cameron Mathis's Resume
 This repository contains my most recent resume.
 <br/>
-_Updated on 03/27/2021_
+_Updated on 01/14/2021_
